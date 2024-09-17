@@ -1,10 +1,9 @@
 const express = require('express')
 const router = express.Router()
 
+const { GetSiteContent } = require('../controller/puppeteer')
 
 //
-router.get('/', (req, res) => {
-    res.send('Hello World')
-})
+router.post('/puppeteer', GetSiteContent)
 
 module.exports = router

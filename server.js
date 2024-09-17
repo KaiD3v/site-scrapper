@@ -1,5 +1,10 @@
 const express = require('express')
 const server = express()
+const bodyParser = require('body-parser');
+
+
+// middlewares
+server.use(bodyParser.json());
 
 // routes path
 const routes = require('./routes/routes')
