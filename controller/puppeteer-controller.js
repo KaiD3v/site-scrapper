@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer")
 const fs = require('fs')
 
-async function GetSiteContent(req, res) {
+async function SiteScrapper(req, res) {
 
     try {
         const { search } = req.body
@@ -34,5 +34,5 @@ async function GetSiteContent(req, res) {
 }
 
 module.exports = {
-    GetSiteContent
+    SiteScrapper
 }

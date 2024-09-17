@@ -1,9 +1,14 @@
 const express = require('express')
 const router = express.Router()
 
-const { GetSiteContent } = require('../controller/puppeteer')
+const { SiteScrapper } = require('../controller/puppeteer-controller')
+const { HomePage } = require('../controller/views-controller')
 
-//
-router.post('/puppeteer', GetSiteContent)
+// scrapper
+router.post('/puppeteer', SiteScrapper)
+
+// views
+router.get('/', HomePage)
+
 
 module.exports = router
