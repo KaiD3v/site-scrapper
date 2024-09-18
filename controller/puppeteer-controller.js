@@ -1,52 +1,56 @@
-const puppeteer = require("puppeteer")
-const fs = require('fs')
+const puppeteer = require("puppeteer");
+const fs = require("fs");
+
+let searchContent;
 
 async function SiteScrapper(req, res) {
-
     try {
-        const { search } = req.body
-        console.log(search)
+        const { search } = req.body;
+        console.log(search);
 
         if (!search) {
-            return res.status(403).send('Insira uma pesquisa!')
+            return res.status(403).send("Insira uma pesquisa!");
         }
 
-        const scrappingResult = await puppeteer.launch({ headless: 'shell' }).then(async (browser) => {
-            const page = await browser.newPage()
+        const scrappingResult = await puppeteer
+            .launch({ headless: "shell" })
+            .then(async browser => {
+                const page = await browser.newPage();
 
-            try {
-                await page.goto(`${search}`)
+                try {
+                    await page.goto(`${search}`);
 
-                let scrappingResult = await page.evaluate(() => {
-                    let nodeList = document.querySelectorAll("a")
-                    let list = [...nodeList]
+                    let scrappingResult = await page.evaluate(() => {
+                        let nodeList = document.querySelectorAll("a");
+                        let list = [...nodeList];
 
-                    let resultedLinks = list.map((item) => {
-                        return {
-                            text: item.innerHTML,
-                            link: item.href
-                        }
-                    })
+                        let resultedLinks = list.map(item => {
+                            return {
+                                text: item.innerHTML,
+                                link: item.href
+                            };
+                        });
 
-                    return resultedLinks;
-                })
+                        return resultedLinks;
+                    });
 
-                await page.screenshot({ path: `images/screenshot.png` })
+                    await page.screenshot({ path: `images/screenshot.png` });
 
-                return scrappingResult;
+                    return scrappingResult;
+                } catch (error) {
+                    console.log(error);
+                }
+            });
 
-            } catch (error) {
-                console.log(error)
-            }
-        })
-
-       return res.json({ scrappingResult })
-
+        searchContent = scrappingResult;
+        return res.json({ scrappingResult });
     } catch (error) {
-        console.error('Houve um erro ao buscar o conteúdo do site:', error)
+        console.error("Houve um erro ao buscar o conteúdo do site:", error);
     }
 }
 
+async function DownloadScrappingJson(req, res) { }
+
 module.exports = {
     SiteScrapper
-}
+};

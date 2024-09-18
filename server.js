@@ -1,11 +1,11 @@
 const express = require('express')
 const server = express()
 const exphbs = require("express-handlebars");
-const bodyParser = require('body-parser');
 
 
 // middlewares
-server.use(bodyParser.json());
+server.use(express.urlencoded({ extended: true }));
+server.use(express.json())
 
 // view engine
 server.engine("handlebars", exphbs.engine());
