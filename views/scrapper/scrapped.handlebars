@@ -1,0 +1,18 @@
+<section class="scrapped-container">
+  <main>
+    <h1>Resultado do Scrapping</h1>
+    <hr />
+    <ul class="scrap-list">
+      {{#each searchContent}}
+        <li>
+          {{#if (eq this.link "/")}}
+            <span>{{this.text}}</span>
+          {{else}}
+            <a href="{{this.link}}">{{this.text}}</a>
+          {{/if}}
+        </li>
+      {{/each}}
+    </ul>
+
+  </main>
+</section>

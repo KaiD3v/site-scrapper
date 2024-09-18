@@ -1,6 +1,4 @@
 const puppeteer = require("puppeteer");
-const fs = require("fs");
-
 let searchContent;
 
 async function SiteScrapper(req, res) {
@@ -26,8 +24,8 @@ async function SiteScrapper(req, res) {
 
                         let resultedLinks = list.map(item => {
                             return {
-                                text: item.innerHTML,
-                                link: item.href
+                                text: item.textContent || 'Sem texto definido',
+                                link: item.href || '/'
                             };
                         });
 
@@ -36,20 +34,20 @@ async function SiteScrapper(req, res) {
 
                     await page.screenshot({ path: `images/screenshot.png` });
 
+                    await browser.close();
+
                     return scrappingResult;
                 } catch (error) {
                     console.log(error);
                 }
             });
 
-        searchContent = scrappingResult;
-        return res.json({ scrappingResult });
+        res.render('scrapper/scrapped', { searchContent: scrappingResult });
+
     } catch (error) {
         console.error("Houve um erro ao buscar o conteúdo do site:", error);
     }
 }
-
-async function DownloadScrappingJson(req, res) { }
 
 module.exports = {
     SiteScrapper
