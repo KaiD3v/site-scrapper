@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-let searchContent;
+const fs = require('fs')
 
 async function SiteScrapper(req, res) {
     try {
@@ -32,9 +32,9 @@ async function SiteScrapper(req, res) {
                         return resultedLinks;
                     });
 
-                    await page.screenshot({ path: `images/screenshot.png` });
-
-                    await browser.close();
+                    fs.writeFileSync(`./db/teste.json`, JSON.stringify(scrappingResult, null, 2), err => {
+                        if (err) throw new Error('Erro ao transformar conteúdo em json')
+                    })
 
                     return scrappingResult;
                 } catch (error) {
