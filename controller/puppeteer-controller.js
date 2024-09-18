@@ -24,7 +24,7 @@ async function SiteScrapper(req, res) {
 
                         let resultedLinks = list.map(item => {
                             return {
-                                text: item.textContent || 'Sem texto definido',
+                                text: item.textContent || item.href || 'Sem texto definido',
                                 link: item.href || '/'
                             };
                         });

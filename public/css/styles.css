@@ -5,7 +5,38 @@ body {
 
 .main-container {
     background-color: #100c08;
-    width: 100vw;
+}
+
+.navbar-container {
+    display: flex;
+    width: 100%;
+    background-color: #fefefe;
+    justify-content: space-between;
+    padding: 10px 0;
+    align-items: center;
+    align-items: center;
+    
+    a {
+        color: #0e0e0e;
+        text-decoration: none;
+    }
+
+    h1 {
+        gap: 10px;
+        margin: 10px;
+        
+        a {
+            text-decoration: none;
+        }
+    }
+
+    ul {
+        display: flex;
+        gap: 10px;
+        margin: 10px;
+        list-style: none;
+        font-size: large;
+    }
 }
 
 .home-container {
