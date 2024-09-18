@@ -1,654 +1,702 @@
 [
   {
-    "text": "\n              \n            ",
+    "text": "Skip to content",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#main-content"
+  },
+  {
+    "text": "\n    \n",
+    "link": "https://dev.to/"
+  },
+  {
+    "text": "Powered by  Algolia",
+    "link": "https://www.algolia.com/developers/?utm_source=devto&utm_medium=referral"
+  },
+  {
+    "text": "\n        Search\n    \n\n\n      ",
+    "link": "https://dev.to/search"
+  },
+  {
+    "text": "\n              Log in\n            ",
+    "link": "https://dev.to/enter"
+  },
+  {
+    "text": "\n            Create account\n          ",
+    "link": "https://dev.to/enter?state=new-user"
+  },
+  {
+    "text": "\n            Share to Twitter\n          ",
+    "link": "https://twitter.com/intent/tweet?text=%22Uncovering%20Hidden%20Gems%20in%20JavaScript%22%20by%20Subham%20Behera%20%23DEVCommunity%20https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd"
+  },
+  {
+    "text": "\n            Share to LinkedIn\n          ",
+    "link": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd&title=Uncovering%20Hidden%20Gems%20in%20JavaScript&summary=JavaScript%20is%20one%20of%20the%20most%20versatile%20and%20widely%20used%20programming%20languages%20in%20the%20world.%20It%20powers...&source=DEV%20Community"
+  },
+  {
+    "text": "\n            Share to Reddit\n          ",
+    "link": "https://www.reddit.com/submit?url=https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd&title=Uncovering%20Hidden%20Gems%20in%20JavaScript"
+  },
+  {
+    "text": "\n            Share to Hacker News\n          ",
+    "link": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd&t=Uncovering%20Hidden%20Gems%20in%20JavaScript"
+  },
+  {
+    "text": "\n            Share to Facebook\n          ",
+    "link": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd"
+  },
+  {
+    "text": "\n            Share to Mastodon\n          ",
+    "link": "https://toot.kytta.dev/?text=https%3A%2F%2Fdev.to%2Fsubham_behera%2Funcovering-hidden-gems-in-javascript-9bd"
+  },
+  {
+    "text": "Report Abuse",
+    "link": "https://dev.to/report-abuse"
+  },
+  {
+    "text": "https://dev.to/subham_behera",
+    "link": "https://dev.to/subham_behera"
+  },
+  {
+    "text": "Subham Behera",
+    "link": "https://dev.to/subham_behera"
+  },
+  {
+    "text": "#javascript",
+    "link": "https://dev.to/t/javascript"
+  },
+  {
+    "text": "#webdev",
+    "link": "https://dev.to/t/webdev"
+  },
+  {
+    "text": "#beginners",
+    "link": "https://dev.to/t/beginners"
+  },
+  {
+    "text": "#programming",
+    "link": "https://dev.to/t/programming"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#1-the-raw-endraw-nullish-coalescing-operator"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#2-the-raw-endraw-optional-chaining-operator"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#3-the-raw-endraw-double-bang-operator"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#4-the-raw-endraw-optional-chaining-with-dynamic-keys"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#5-the-raw-objectfromentries-endraw-method"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#6-the-raw-import-endraw-function-for-dynamic-imports"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#7-the-raw-proxy-endraw-object-for-metaprogramming"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#8-the-raw-reflect-endraw-api"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#9-tagged-template-literals"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#10-the-raw-intl-endraw-object-for-internationalization"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#example"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#use-case"
+  },
+  {
+    "text": "\n  ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#conclusion"
+  },
+  {
+    "text": "\n        Create template\n      ",
+    "link": "https://dev.to/settings/response-templates"
+  },
+  {
+    "text": "Dismiss",
+    "link": "https://dev.to/404.html"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "\n  \n  \n  \n  \n  \n",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    Jon Randy 🎖️\n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Jon Randy 🎖️\n      \n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbee"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbee"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/jonrandy/comment/2gbee"
+  },
+  {
+    "text": "\n        Comment button\n\n        Reply\n      ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#/subham_behera/uncovering-hidden-gems-in-javascript-9bd/comments/new/2gbee"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "\n  \n  \n  \n  \n  \n",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n    Adam Winters\n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Adam Winters\n      \n    \n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbl1"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbl1"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/wintersboy/comment/2gbl1"
+  },
+  {
+    "text": "\n        Comment button\n\n        Reply\n      ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#/subham_behera/uncovering-hidden-gems-in-javascript-9bd/comments/new/2gbl1"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "\n  \n    \n  \n    \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n      \n    \n  \n\n  \n  \n  \n  \n\n\n  \n    \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n      \n    \n  \n\n\n",
-    "link": "https://www.youtube.com/"
+    "text": "\n    \n  ",
+    "link": "https://dev.to/jonrandy"
   },
   {
-    "text": "\n  \n    \n  \n    \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n      \n    \n  \n\n  \n  \n  \n  \n\n\n  \n    \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n      \n    \n  \n\n\n",
-    "link": "https://www.youtube.com/"
+    "text": "\n    Jon Randy 🎖️\n  ",
+    "link": "https://dev.to/jonrandy"
   },
   {
-    "text": "Sem texto definido",
+    "text": "\n    \n      \n    \n    \n      Jon Randy 🎖️\n      \n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gblk"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gblk"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/jonrandy/comment/2gblk"
+  },
+  {
+    "text": "tc39.es/ecma262/#sec-unary-operators",
+    "link": "https://tc39.es/ecma262/#sec-unary-operators"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Sem texto definido",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n    Adam Winters\n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Adam Winters\n      \n    \n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm5"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm5"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/wintersboy/comment/2gbm5"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Extraindo dados de outros sites com Puppeteer JS  | Code/Drops #46",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    Jon Randy 🎖️\n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Jon Randy 🎖️\n      \n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm6"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm6"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/jonrandy/comment/2gbm6"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
+    "text": "\n    \n  ",
+    "link": "https://dev.to/wintersboy"
   },
   {
-    "text": "Sem texto definido",
+    "text": "\n    Adam Winters\n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Adam Winters\n      \n    \n  ",
+    "link": "https://dev.to/wintersboy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm8"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbm8"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/wintersboy/comment/2gbm8"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Sem texto definido",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    Jon Randy 🎖️\n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Jon Randy 🎖️\n      \n    \n  ",
+    "link": "https://dev.to/jonrandy"
+  },
+  {
+    "text": "\n  5 de jul.\n\n    • Edited on 19 de jul.\n    • Edited\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbmc"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gbmc"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/jonrandy/comment/2gbmc"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Sem texto definido",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/nibelune"
+  },
+  {
+    "text": "\n    Benoît Schiex\n  ",
+    "link": "https://dev.to/nibelune"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Benoît Schiex\n      \n    \n  ",
+    "link": "https://dev.to/nibelune"
+  },
+  {
+    "text": "\n  8 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gd7c"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gd7c"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/nibelune/comment/2gd7c"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Ao vivoEm breve",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/chovy"
+  },
+  {
+    "text": "\n    chovy\n  ",
+    "link": "https://dev.to/chovy"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      chovy\n      \n    \n  ",
+    "link": "https://dev.to/chovy"
+  },
+  {
+    "text": "anthony@chovy.com",
+    "link": "mailto:anthony@chovy.com"
+  },
+  {
+    "text": "\n  12 de jul.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gfpk"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gfpk"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/chovy/comment/2gfpk"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Assista agora",
+    "text": "\n    \n  ",
+    "link": "https://dev.to/samuel-braun"
+  },
+  {
+    "text": "\n    Samuel Braun\n  ",
+    "link": "https://dev.to/samuel-braun"
+  },
+  {
+    "text": "\n    \n      \n    \n    \n      Samuel Braun\n      \n    \n  ",
+    "link": "https://dev.to/samuel-braun"
+  },
+  {
+    "text": "\n  19 de jul.\n\n    • Edited on 19 de jul.\n    • Edited\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gjkn"
+  },
+  {
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2gjkn"
+  },
+  {
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/samuel-braun/comment/2gjkn"
+  },
+  {
+    "text": "\n        Comment button\n\n        Reply\n      ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#/subham_behera/uncovering-hidden-gems-in-javascript-9bd/comments/new/2gjkn"
+  },
+  {
+    "text": " ",
     "link": "/"
   },
   {
-    "text": "Rocketseat",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg"
+    "text": "\n    \n  ",
+    "link": "https://dev.to/deepak_vishwakarma_b61261"
   },
   {
-    "text": "Code/Drops Beginners25 vídeos",
-    "link": "https://www.youtube.com/watch?v=cZvWDTqTGKg&list=PL85ITvJ7FLoifcDIBeuuAhh4_799RZaSc"
+    "text": "\n    Deepak Vishwakarma\n  ",
+    "link": "https://dev.to/deepak_vishwakarma_b61261"
   },
   {
-    "text": "Sem texto definido",
-    "link": "/"
+    "text": "\n    \n      \n    \n    \n      Deepak Vishwakarma\n      \n    \n  ",
+    "link": "https://dev.to/deepak_vishwakarma_b61261"
   },
   {
-    "text": "Sem texto definido",
-    "link": "/"
+    "text": "\n  9 de ago.\n\n",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2h7bp"
   },
   {
-    "text": "Sem texto definido",
-    "link": "/"
+    "text": "Copy link",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd#comment-2h7bp"
   },
   {
-    "text": "https://www.youtube.com/watch?v=vAV4Vy4jfkc",
-    "link": "https://www.youtube.com/watch?v=vAV4Vy4jfkc"
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse?url=https://dev.to/deepak_vishwakarma_b61261/comment/2h7bp"
   },
   {
-    "text": "\n        \n          \n            \n              Principais comentários\n                \n              \n              \n              \n            \n            \n              \n            \n          \n\n          \n          \n        \n\n      ",
-    "link": "/"
+    "text": "@jonrandy",
+    "link": "https://dev.to/jonrandy"
   },
   {
-    "text": "\n        \n          \n            \n              Mais recentes primeiro\n                \n              \n              \n              \n            \n            \n              \n            \n          \n\n          \n          \n        \n\n      ",
-    "link": "/"
+    "text": "\n        Comment button\n\n        Reply\n      ",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#/subham_behera/uncovering-hidden-gems-in-javascript-9bd/comments/new/2h7bp"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Projeto Final\n    Projeto Final\n    0:00\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
+    "text": "Code of Conduct",
+    "link": "https://dev.to/code-of-conduct"
   },
   {
-    "text": "\n    Projeto Final\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
+    "text": "Report abuse",
+    "link": "https://dev.to/report-abuse"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Apresentação do motivo\n    Apresentação do motivo\n    0:21\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
+    "text": "permalink",
+    "link": "https://dev.to/subham_behera/uncovering-hidden-gems-in-javascript-9bd?ref=dailydev#"
   },
   {
-    "text": "\n    Apresentação do motivo\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
+    "text": "reporting abuse",
+    "link": "https://dev.to/report-abuse"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    O que é Web Scraping? (com 1 p somente haha)\n    O que é Web Scraping? (com 1 p somente haha)\n    0:54\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
+    "text": "\n        \n          \n              \n          \n          \n            11 Open Source Python Projects You Should Know in 2024 🧑‍💻🪄\n            \n              Arindam Majumder  - Sep 16\n            \n          \n        \n      ",
+    "link": "https://dev.to/arindam_1729/11-open-source-python-projects-you-should-know-in-2024-583o"
   },
   {
-    "text": "\n    O que é Web Scraping? (com 1 p somente haha)\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
+    "text": "\n        \n          \n              \n          \n          \n            I Found a Tool Even Better than v0 – You Won't Believe What It Can Do! 🤯\n            \n              Arindam Majumder  - Sep 17\n            \n          \n        \n      ",
+    "link": "https://dev.to/arindam_1729/i-found-a-tool-even-better-than-v0-you-wont-believe-what-it-can-do-igf"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Casos de uso para o scrapper\n    Casos de uso para o scrapper\n    1:12\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
+    "text": "\n        \n          \n              \n          \n          \n            100+ React E-Commerce Components for Modern Stores\n            \n              TailGrids - Sep 18\n            \n          \n        \n      ",
+    "link": "https://dev.to/tailwindcss/react-e-commerce-components-4nd4"
   },
   {
-    "text": "\n    Casos de uso para o scrapper\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
+    "text": "\n        \n          \n              \n          \n          \n            Adding short-circuiting in a bytecode interpreter\n            \n              Alexandre Plt - Sep 16\n            \n          \n        \n      ",
+    "link": "https://dev.to/lexplt/adding-short-circuiting-in-a-bytecode-interpreter-37lj"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    O que vamos fazer hoje?\n    O que vamos fazer hoje?\n    1:46\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
+    "text": "\n    \n      \n    \n    \n      Subham Behera\n      \n    \n  ",
+    "link": "https://dev.to/subham_behera"
   },
   {
-    "text": "\n    O que vamos fazer hoje?\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
+    "text": "Subham Behera",
+    "link": "https://dev.to/subham_behera"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Utilizando Puppeteer\n    Utilizando Puppeteer\n    2:31\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
+    "text": "\n              The Bizarre World of JavaScript Type Coercion\n              \n                  #javascript\n                  #beginners\n                  #programming\n                  #webdev\n              \n            ",
+    "link": "https://dev.to/subham_behera/the-bizarre-world-of-javascript-type-coercion-58h0"
   },
   {
-    "text": "\n    Utilizando Puppeteer\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
+    "text": "\n              The Quirky Side of C++: Weird Stuff That Makes Us Love (and Hate) It\n              \n                  #cpp\n                  #programming\n                  #learning\n                  #coding\n              \n            ",
+    "link": "https://dev.to/subham_behera/the-quirky-side-of-c-weird-stuff-that-makes-us-love-and-hate-it-4k31"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Conectando ao Instagram\n    Conectando ao Instagram\n    7:54\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
+    "text": "\n              Exploring the Uncharted: Fun and Weird Stuff in Python\n              \n                  #beginners\n                  #programming\n                  #learning\n                  #python\n              \n            ",
+    "link": "https://dev.to/subham_behera/exploring-the-uncharted-fun-and-weird-stuff-in-python-19hg"
   },
   {
-    "text": "\n    Conectando ao Instagram\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
+    "text": "Neon",
+    "link": "https://neon.tech/"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Garimpando imagens\n    Garimpando imagens\n    9:17\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
+    "text": "DEV Community",
+    "link": "https://dev.to/"
   },
   {
-    "text": "\n    Garimpando imagens\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
+    "text": "\n      Home\n    ",
+    "link": "https://dev.to/"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Salvando dados em um arquivo local\n    Salvando dados em um arquivo local\n    15:38\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=938s"
+    "text": "\n      DEV++\n    ",
+    "link": "https://dev.to/++"
   },
   {
-    "text": "\n    Salvando dados em um arquivo local\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=938s"
+    "text": "\n      Podcasts\n    ",
+    "link": "https://dev.to/pod"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Consumindo dados no frontend\n    Consumindo dados no frontend\n    18:27\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1107s"
+    "text": "\n      Videos\n    ",
+    "link": "https://dev.to/videos"
   },
   {
-    "text": "\n    Consumindo dados no frontend\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1107s"
+    "text": "\n      Tags\n    ",
+    "link": "https://dev.to/tags"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Resultado final\n    Resultado final\n    24:49\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1489s"
+    "text": "\n      DEV Help\n    ",
+    "link": "https://dev.to/help"
   },
   {
-    "text": "\n    Resultado final\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1489s"
+    "text": "\n      Forem Shop\n    ",
+    "link": "https://shop.forem.com/"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Desafio final para seu próximo nível (next level challenge)\n    Desafio final para seu próximo nível (next level challenge)\n    25:20\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1520s"
+    "text": "\n      Advertise on DEV\n    ",
+    "link": "https://dev.to/advertise"
   },
   {
-    "text": "\n    Desafio final para seu próximo nível (next level challenge)\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1520s"
+    "text": "\n      DEV Challenges\n    ",
+    "link": "https://dev.to/challenges"
   },
   {
-    "text": "\n  \n    \n    \n  \n  \n    Despedida e um abração do Maykão\n    Despedida e um abração do Maykão\n    26:23\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1583s"
+    "text": "\n      DEV Showcase\n    ",
+    "link": "https://dev.to/showcase"
   },
   {
-    "text": "\n    Despedida e um abração do Maykão\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1583s"
+    "text": "\n      About\n    ",
+    "link": "https://dev.to/about"
   },
   {
-    "text": "00:00",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
+    "text": "\n      Contact\n    ",
+    "link": "https://dev.to/contact"
   },
   {
-    "text": "00:21",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
+    "text": "\n      Free Postgres Database\n    ",
+    "link": "https://dev.to/free-postgres-database-tier"
   },
   {
-    "text": "00:54",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
+    "text": "\n      Guides\n    ",
+    "link": "https://dev.to/guides"
   },
   {
-    "text": "01:12",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
+    "text": "\n      Software comparisons\n    ",
+    "link": "https://dev.to/software-comparisons"
   },
   {
-    "text": "01:46",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
+    "text": "\n      Code of Conduct\n    ",
+    "link": "https://dev.to/code-of-conduct"
   },
   {
-    "text": "02:31",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
+    "text": "\n      Privacy Policy\n    ",
+    "link": "https://dev.to/privacy"
   },
   {
-    "text": "07:54",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
+    "text": "\n      Terms of use\n    ",
+    "link": "https://dev.to/terms"
   },
   {
-    "text": "09:17",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
+    "text": "Forem",
+    "link": "https://www.forem.com/"
   },
   {
-    "text": "15:38",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=938s"
+    "text": "open source",
+    "link": "https://dev.to/t/opensource"
   },
   {
-    "text": "18:27",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1107s"
+    "text": "DEV",
+    "link": "https://dev.to/"
   },
   {
-    "text": "24:49",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1489s"
+    "text": "Ruby on Rails",
+    "link": "https://dev.to/t/rails"
   },
   {
-    "text": "25:20",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1520s"
+    "text": "\n        Log in\n      ",
+    "link": "https://dev.to/enter"
   },
   {
-    "text": "26:23",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1583s"
-  },
-  {
-    "text": "https://www.rocketseat.com.br",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1JkODNncVI1aWZlNEpienBLVEpmc2ZMMVBBZ3xBQ3Jtc0ttc0RoWGVWWFVVU0RBbjVJMXlIVTc1R1hXdkNXeTZuVnRBVU5ZZU03cDJkUEFYVUlmMi1ERFNMNVI4M2h6a1VxQzVBbWF0clNIMlBFOFZFc0ZyNXZjTnRWbm5RTVA5MGNCaG1XU3BmNzBFMEtnVENMYw&q=https%3A%2F%2Fwww.rocketseat.com.br%2F&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXEwQURKU3RmSU01am1yX29MRDc3cWlHS3g3UXxBQ3Jtc0trcGxBblJxeXhfeGQ0NGlPRUJaam1xLVAzSjF5dl82VGxqOURQeERleFRIX2x4TUpIRjVFeGY4a1NtSE04MlhaWlZPNHhBYjRRUTU0SUNWMGZpY1VjUUR5dEh5M0NSTG1NYjNOVzlCNmpmZU5DMXZKOA&q=https%3A%2F%2Fwww.twitter.com%2Frocketseat&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE8yRnUwaTlxZF9MZXdRS0RpZEtKeGJ2Q2ZjUXxBQ3Jtc0ttSGlSNkVKTzJ1ZGZIb1NTRWJkUUVIczBueWFjelhwOXdBRi1IMG1Ua3pwNzlkWW54VndDQ0w2alNrVlVsdW0yeTZtVEo2T3FNakFWLVNvb3BIZG01SmdJblhQaXJhM1RjcUQ0UjRRVTFzWWtWbnpmNA&q=https%3A%2F%2Fwww.facebook.com%2Frocketseat&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat_oficial  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmh4VEhBbWZnYWxWX05tWldhenVpRWkySmlhZ3xBQ3Jtc0trQU1rckdEVVl6MzNkZU5wLWFId2QxRGpLbE1tcUdrQW9kOTdpcXlYSUtuUHNDSWdlYWFKMlNfR2QzaUcwTTlmSk1TaEFlYmFRSWh1bVUwVWQ2QUdwVzdpSGQ5V0dLQ0ZCZ2lvYVQxbVBWSEdvbUhudw&q=https%3A%2F%2Fwww.instagram.com%2Frocketseat_oficial&v=K5yYBJhix5A"
-  },
-  {
-    "text": "http://comunidade.rocketseat.com.br",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RCTXFNNTJ5OW13cElKVC1QeklqZ3prTEczUXxBQ3Jtc0trX3hqOTVuMkNZQkRWQWdEX05OWEh1ZmMtaFQwTGttWjctT0R5MlpjNXcyN0tjYkExNjdoZzhOTTJoX1hVQ2k1WlZhQUNHVWM5MXVzWG9mdWRPQzYtVVVBQnJlM184d2kxdVBzakRaUzEzcDR5cW9Kdw&q=http%3A%2F%2Fcomunidade.rocketseat.com.br%2F&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://rocketseat.com.br/blog",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5LRGVHS1AyaHFyaTMtMmFCNXg3WVVILWw2Z3xBQ3Jtc0tta21vLWJaQ2xndzZzX1RxeDlxZ3pTTk54aWJKcEJHXzk3VDM1Y0hiWE1SSThDSU00R3hNRENNalJmeFc4TEgxUk1xUWRhVEdWaVpOQ1RYQ2pCZ2RoYVRxTFJOUUp0S0Itdy1BU183OUJHWVNQdjMtbw&q=https%3A%2F%2Frocketseat.com.br%2Fblog&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://rocketseat.ck.page/b4b4e90122",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2NwNVZXVlc2N0x5eGdzcUNDaF9saHhjUDhkQXxBQ3Jtc0trTnlZcXk1dW8zN0ZobWxnc09VQkt3SXgtekIweWdDZFppb2syWWl2dkdxZFRyMHBLVG1fNzJXaVc5ZzVPSmhPaENPNGh0Mi02M3ctRnZyQXM2LTNGc3FVR0k1MGE3SWZPYVk2VjNiZnpiSjBVWGtUZw&q=https%3A%2F%2Frocketseat.ck.page%2Fb4b4e90122&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://spoti.fi/2PwXeUp",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUZvQzRqczE4dDBTXzdWakE0Umg1R1NqZGREd3xBQ3Jtc0tuT3lHbHhxT3diRGU0aGhmbzRvS0tlWWJoMGlTaTcxME5veHpUazB5d2dlcU1zcmp6dkx0eGxCSG5uQlkzSDR1MjZDSGFpNEJtc0xVUXVONXBGWUhyOGowdlZEUjUwblo4OUhiejhEX0hFOGRjdDN3RQ&q=https%3A%2F%2Fspoti.fi%2F2PwXeUp&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://anchor.fm/faladev",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FIbEh0emhycmU1LXVRUHZFczB5VFY5VXRQUXxBQ3Jtc0trQzBlekNJZnhkd2NKUzBOZmhmaGhuXzBjbHFERi1qVEZjTkFfejc4dWRoOHBTcF9USDgwd3R1clhCeTJ1THl2eDdGV2NvWV9Mc20wMWY5Q2FydmVBOGk0WUFEZnlRMDZQMFdwNGIxeXoweHI4b2FrNA&q=https%3A%2F%2Fanchor.fm%2Ffaladev&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://apple.co/2pReOrN",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblVKM1FQcFhoZ3EyUWd0MlFzTU81SU9Xendhd3xBQ3Jtc0ttV1RaUkd4dWFkbUUwVkxIX1JpY2JSdVNXM1lkWXF6TTM5VGdabHY1NWpISkItSVIzX1dmdzRZYUtsbDRDOE5SYjFxS3FaWWF1Ykd4Nm1kdzdkeUYxZlduZENCbzIwNzQ4aGpHWHZycWxrRm54OGhKdw&q=https%3A%2F%2Fapple.co%2F2pReOrN&v=K5yYBJhix5A"
-  },
-  {
-    "text": "http://bit.ly/2Cgj077",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFFwU3N0aGQ3UEhucE5kOUpSc1NqRFRRUHVOUXxBQ3Jtc0tuWEJqX2F4Q2dfTEo0T3RGa3hWVzlNM0tSbkY3cWs5RnpIZ0k3bXNUZlVwdzhMRkJDQV9CT1VUX2R0aW04Rl9ueUFWUnd6clFpWHJHQVZJUXB3ZTM4WjR1Ym53NVV5Mi05MnU2RWFDTnQwS005S3hiSQ&q=http%3A%2F%2Fbit.ly%2F2Cgj077&v=K5yYBJhix5A"
-  },
-  {
-    "text": "00:00",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "00:21",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "00:54",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
-  },
-  {
-    "text": "01:12",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
-  },
-  {
-    "text": "01:46",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
-  },
-  {
-    "text": "02:31",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
-  },
-  {
-    "text": "07:54",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
-  },
-  {
-    "text": "09:17",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
-  },
-  {
-    "text": "15:38",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=938s"
-  },
-  {
-    "text": "18:27",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1107s"
-  },
-  {
-    "text": "24:49",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1489s"
-  },
-  {
-    "text": "25:20",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1520s"
-  },
-  {
-    "text": "26:23",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=1583s"
-  },
-  {
-    "text": "https://www.rocketseat.com.br",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1JkODNncVI1aWZlNEpienBLVEpmc2ZMMVBBZ3xBQ3Jtc0ttc0RoWGVWWFVVU0RBbjVJMXlIVTc1R1hXdkNXeTZuVnRBVU5ZZU03cDJkUEFYVUlmMi1ERFNMNVI4M2h6a1VxQzVBbWF0clNIMlBFOFZFc0ZyNXZjTnRWbm5RTVA5MGNCaG1XU3BmNzBFMEtnVENMYw&q=https%3A%2F%2Fwww.rocketseat.com.br%2F&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXEwQURKU3RmSU01am1yX29MRDc3cWlHS3g3UXxBQ3Jtc0trcGxBblJxeXhfeGQ0NGlPRUJaam1xLVAzSjF5dl82VGxqOURQeERleFRIX2x4TUpIRjVFeGY4a1NtSE04MlhaWlZPNHhBYjRRUTU0SUNWMGZpY1VjUUR5dEh5M0NSTG1NYjNOVzlCNmpmZU5DMXZKOA&q=https%3A%2F%2Fwww.twitter.com%2Frocketseat&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE8yRnUwaTlxZF9MZXdRS0RpZEtKeGJ2Q2ZjUXxBQ3Jtc0ttSGlSNkVKTzJ1ZGZIb1NTRWJkUUVIczBueWFjelhwOXdBRi1IMG1Ua3pwNzlkWW54VndDQ0w2alNrVlVsdW0yeTZtVEo2T3FNakFWLVNvb3BIZG01SmdJblhQaXJhM1RjcUQ0UjRRVTFzWWtWbnpmNA&q=https%3A%2F%2Fwww.facebook.com%2Frocketseat&v=K5yYBJhix5A"
-  },
-  {
-    "text": "  / rocketseat_oficial  ",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmh4VEhBbWZnYWxWX05tWldhenVpRWkySmlhZ3xBQ3Jtc0trQU1rckdEVVl6MzNkZU5wLWFId2QxRGpLbE1tcUdrQW9kOTdpcXlYSUtuUHNDSWdlYWFKMlNfR2QzaUcwTTlmSk1TaEFlYmFRSWh1bVUwVWQ2QUdwVzdpSGQ5V0dLQ0ZCZ2lvYVQxbVBWSEdvbUhudw&q=https%3A%2F%2Fwww.instagram.com%2Frocketseat_oficial&v=K5yYBJhix5A"
-  },
-  {
-    "text": "http://comunidade.rocketseat.com.br",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RCTXFNNTJ5OW13cElKVC1QeklqZ3prTEczUXxBQ3Jtc0trX3hqOTVuMkNZQkRWQWdEX05OWEh1ZmMtaFQwTGttWjctT0R5MlpjNXcyN0tjYkExNjdoZzhOTTJoX1hVQ2k1WlZhQUNHVWM5MXVzWG9mdWRPQzYtVVVBQnJlM184d2kxdVBzakRaUzEzcDR5cW9Kdw&q=http%3A%2F%2Fcomunidade.rocketseat.com.br%2F&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://rocketseat.com.br/blog",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5LRGVHS1AyaHFyaTMtMmFCNXg3WVVILWw2Z3xBQ3Jtc0tta21vLWJaQ2xndzZzX1RxeDlxZ3pTTk54aWJKcEJHXzk3VDM1Y0hiWE1SSThDSU00R3hNRENNalJmeFc4TEgxUk1xUWRhVEdWaVpOQ1RYQ2pCZ2RoYVRxTFJOUUp0S0Itdy1BU183OUJHWVNQdjMtbw&q=https%3A%2F%2Frocketseat.com.br%2Fblog&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://rocketseat.ck.page/b4b4e90122",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2NwNVZXVlc2N0x5eGdzcUNDaF9saHhjUDhkQXxBQ3Jtc0trTnlZcXk1dW8zN0ZobWxnc09VQkt3SXgtekIweWdDZFppb2syWWl2dkdxZFRyMHBLVG1fNzJXaVc5ZzVPSmhPaENPNGh0Mi02M3ctRnZyQXM2LTNGc3FVR0k1MGE3SWZPYVk2VjNiZnpiSjBVWGtUZw&q=https%3A%2F%2Frocketseat.ck.page%2Fb4b4e90122&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://spoti.fi/2PwXeUp",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUZvQzRqczE4dDBTXzdWakE0Umg1R1NqZGREd3xBQ3Jtc0tuT3lHbHhxT3diRGU0aGhmbzRvS0tlWWJoMGlTaTcxME5veHpUazB5d2dlcU1zcmp6dkx0eGxCSG5uQlkzSDR1MjZDSGFpNEJtc0xVUXVONXBGWUhyOGowdlZEUjUwblo4OUhiejhEX0hFOGRjdDN3RQ&q=https%3A%2F%2Fspoti.fi%2F2PwXeUp&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://anchor.fm/faladev",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FIbEh0emhycmU1LXVRUHZFczB5VFY5VXRQUXxBQ3Jtc0trQzBlekNJZnhkd2NKUzBOZmhmaGhuXzBjbHFERi1qVEZjTkFfejc4dWRoOHBTcF9USDgwd3R1clhCeTJ1THl2eDdGV2NvWV9Mc20wMWY5Q2FydmVBOGk0WUFEZnlRMDZQMFdwNGIxeXoweHI4b2FrNA&q=https%3A%2F%2Fanchor.fm%2Ffaladev&v=K5yYBJhix5A"
-  },
-  {
-    "text": "https://apple.co/2pReOrN",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblVKM1FQcFhoZ3EyUWd0MlFzTU81SU9Xendhd3xBQ3Jtc0ttV1RaUkd4dWFkbUUwVkxIX1JpY2JSdVNXM1lkWXF6TTM5VGdabHY1NWpISkItSVIzX1dmdzRZYUtsbDRDOE5SYjFxS3FaWWF1Ykd4Nm1kdzdkeUYxZlduZENCbzIwNzQ4aGpHWHZycWxrRm54OGhKdw&q=https%3A%2F%2Fapple.co%2F2pReOrN&v=K5yYBJhix5A"
-  },
-  {
-    "text": "http://bit.ly/2Cgj077",
-    "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFFwU3N0aGQ3UEhucE5kOUpSc1NqRFRRUHVOUXxBQ3Jtc0tuWEJqX2F4Q2dfTEo0T3RGa3hWVzlNM0tSbkY3cWs5RnpIZ0k3bXNUZlVwdzhMRkJDQV9CT1VUX2R0aW04Rl9ueUFWUnd6clFpWHJHQVZJUXB3ZTM4WjR1Ym53NVV5Mi05MnU2RWFDTnQwS005S3hiSQ&q=http%3A%2F%2Fbit.ly%2F2Cgj077&v=K5yYBJhix5A"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Projeto Final\n    Projeto Final\n    0:00\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "\n    Projeto Final\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Apresentação do motivo\n    Apresentação do motivo\n    0:21\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "\n    Apresentação do motivo\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    O que é Web Scraping? (com 1 p somente haha)\n    O que é Web Scraping? (com 1 p somente haha)\n    0:54\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
-  },
-  {
-    "text": "\n    O que é Web Scraping? (com 1 p somente haha)\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Casos de uso para o scrapper\n    Casos de uso para o scrapper\n    1:12\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
-  },
-  {
-    "text": "\n    Casos de uso para o scrapper\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
-  },
-  {
-    "text": "\n  \n  \n    Rocketseat\n    \n      371 mil inscritos\n    \n  \n",
-    "link": "https://www.youtube.com/@rocketseat"
-  },
-  {
-    "text": "Vídeos",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos"
-  },
-  {
-    "text": "Sobre",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/about"
-  },
-  {
-    "text": "Vídeos",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos"
-  },
-  {
-    "text": "Sobre",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/about"
-  },
-  {
-    "text": "Instagram",
-    "link": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbERMdzBURUJ2N0lnbXVJZkhCQ1h2YmdwVkdtZ3xBQ3Jtc0tsS1VmT1A3N1FjZDVxLTRGYnJEM1RLR0RQMVZlRXhqcjc4Wk9uQm0wbUVDQTRKZm9vSDBZb1MwR1h4c1YzYWRkeFJUTmtJd2NLT1FrVjEyekcyZ3o1UFh5VDhRaER6N0lpOEZYa0h2RThhN3hzMkpTNA&q=https%3A%2F%2Fwww.instagram.com%2Frocketseat%2F"
-  },
-  {
-    "text": "Discord",
-    "link": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbUdMU2syb2VEV1kzODdtdUhxRVg3NVV0NHdkUXxBQ3Jtc0ttRUhpM0FDMlZMd1lYTHRiVnFSRkVZNExGRlV0NnVYODZpMXhPUGVScVVCOW1Qd0tQM1dVMFd4WkRJYWx3UHdUbVl0S25wdnNDNERya1RwMFk4Zlk5N2tCU3Nua2ZCZGpiSzh3Y1RRb3l3cWJKVnZidw&q=https%3A%2F%2Fdiscord.gg%2Frocketseat"
-  },
-  {
-    "text": "Mayk Brito",
-    "link": "https://www.youtube.com/@MaykBrito"
-  },
-  {
-    "text": "Rodrigo Gonçalves",
-    "link": "https://www.youtube.com/@orodrigogo"
-  },
-  {
-    "text": "https://www.youtube.com/@rocketseat",
-    "link": "https://www.youtube.com/@rocketseat"
-  },
-  {
-    "text": "Rocketseat",
-    "link": "https://www.youtube.com/@rocketseat"
-  },
-  {
-    "text": "00:00",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "00:21",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Projeto Final\n    Projeto Final\n    0:00\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "\n    Projeto Final\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=0s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Apresentação do motivo\n    Apresentação do motivo\n    0:21\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "\n    Apresentação do motivo\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=21s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    O que é Web Scraping? (com 1 p somente haha)\n    O que é Web Scraping? (com 1 p somente haha)\n    0:54\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
-  },
-  {
-    "text": "\n    O que é Web Scraping? (com 1 p somente haha)\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=54s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Casos de uso para o scrapper\n    Casos de uso para o scrapper\n    1:12\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
-  },
-  {
-    "text": "\n    Casos de uso para o scrapper\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=72s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    O que vamos fazer hoje?\n    O que vamos fazer hoje?\n    1:46\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
-  },
-  {
-    "text": "\n    O que vamos fazer hoje?\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=106s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Utilizando Puppeteer\n    Utilizando Puppeteer\n    2:31\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
-  },
-  {
-    "text": "\n    Utilizando Puppeteer\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=151s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Conectando ao Instagram\n    Conectando ao Instagram\n    7:54\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
-  },
-  {
-    "text": "\n    Conectando ao Instagram\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=474s"
-  },
-  {
-    "text": "\n  \n    \n    \n  \n  \n    Garimpando imagens\n    Garimpando imagens\n    9:17\n  \n",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
-  },
-  {
-    "text": "\n    Garimpando imagens\n  ",
-    "link": "https://www.youtube.com/watch?v=K5yYBJhix5A&t=557s"
-  },
-  {
-    "text": "\n  \n  \n    Rocketseat\n    \n      371 mil inscritos\n    \n  \n",
-    "link": "https://www.youtube.com/@rocketseat"
-  },
-  {
-    "text": "Vídeos",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos"
-  },
-  {
-    "text": "Sobre",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/about"
-  },
-  {
-    "text": "Vídeos",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos"
-  },
-  {
-    "text": "Sobre",
-    "link": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/about"
-  },
-  {
-    "text": "Instagram",
-    "link": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbERMdzBURUJ2N0lnbXVJZkhCQ1h2YmdwVkdtZ3xBQ3Jtc0tsS1VmT1A3N1FjZDVxLTRGYnJEM1RLR0RQMVZlRXhqcjc4Wk9uQm0wbUVDQTRKZm9vSDBZb1MwR1h4c1YzYWRkeFJUTmtJd2NLT1FrVjEyekcyZ3o1UFh5VDhRaER6N0lpOEZYa0h2RThhN3hzMkpTNA&q=https%3A%2F%2Fwww.instagram.com%2Frocketseat%2F"
-  },
-  {
-    "text": "Discord",
-    "link": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbUdMU2syb2VEV1kzODdtdUhxRVg3NVV0NHdkUXxBQ3Jtc0ttRUhpM0FDMlZMd1lYTHRiVnFSRkVZNExGRlV0NnVYODZpMXhPUGVScVVCOW1Qd0tQM1dVMFd4WkRJYWx3UHdUbVl0S25wdnNDNERya1RwMFk4Zlk5N2tCU3Nua2ZCZGpiSzh3Y1RRb3l3cWJKVnZidw&q=https%3A%2F%2Fdiscord.gg%2Frocketseat"
-  },
-  {
-    "text": "Mayk Brito",
-    "link": "https://www.youtube.com/@MaykBrito"
-  },
-  {
-    "text": "Rodrigo Gonçalves",
-    "link": "https://www.youtube.com/@orodrigogo"
-  },
-  {
-    "text": "Sem texto definido",
-    "link": "/"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=vAV4Vy4jfkc"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Rocketseat\n  \n  \n  \n    Rocketseat\n  \n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      209 mil visualizações\n    \n      há 4 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=vAV4Vy4jfkc"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=SkvTMxP5WUQ"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Web scraping DINÂMICO com NODE.JS e PUPPETEER!\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Bruno Castro\n  \n  \n  \n    Bruno Castro\n  \n\n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      27 mil visualizações\n    \n      há 2 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=SkvTMxP5WUQ"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=f_oxHCL1M4A"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            OESTE SEM FILTRO - ELON MUSK DÁ NÓ EM ALEXANDRE DE MORAES - 18/09/2024\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Revista Oeste\n  \n  \n  \n    Revista Oeste\n  \n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      75 mil assistindo\n    \n  \n\n\n  \n\n\n\n          \n          AO VIVO\n        \n      ",
-    "link": "https://www.youtube.com/watch?v=f_oxHCL1M4A"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=UftSB4DaRU4"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Manipulação de DOM com JavaScript, do zero, na prática | Masterclass #18\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Rocketseat\n  \n  \n  \n    Rocketseat\n  \n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      112 mil visualizações\n    \n      há 4 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=UftSB4DaRU4"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=PyrMT0GA3sE"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Criando uma API do ZERO com Node.js e Banco de Dados\n          \n        \n        \n          \n          \n\n  \n    \n  \n    DevClub | Programação\n  \n  \n  \n    DevClub | Programação\n  \n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      64 mil visualizações\n    \n      há 3 meses\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=PyrMT0GA3sE"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=Ltdp9-ZTAzM"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Como criar um robô que faz login e da like? | Robô com JavaScript, NodeJS e Puppeteer\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Mario Souto - Dev Soutinho\n  \n  \n  \n    Mario Souto - Dev Soutinho\n  \n\n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      54 mil visualizações\n    \n      há 3 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=Ltdp9-ZTAzM"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=xianIw6PleE"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Crawling e Scraping MUITO FÁCIL com JavaScript (usando Express e Puppeteer) // AluraJS #2\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Código Fonte TV\n  \n  \n  \n    Código Fonte TV\n  \n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      45 mil visualizações\n    \n      há 3 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=xianIw6PleE"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=VGroXCEaBiA"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            Como fazer web scraping com python em sites dinâmicos // O site muda toda hora\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Codifike\n  \n  \n  \n    Codifike\n  \n\n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      73 mil visualizações\n    \n      há 2 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=VGroXCEaBiA"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "https://www.youtube.com/watch?v=XO08LcbDfCI"
-  },
-  {
-    "text": "\n        \n          \n          \n          \n          \n            #COMPLETO - Web scraping de resultado da loteria caixa federal e salvando no mongodb\n          \n        \n        \n          \n          \n\n  \n    \n  \n    Pedro Pacheco\n  \n  \n  \n    Pedro Pacheco\n  \n\n\n\n\n\n\n    •\n    \n  \n  \n    \n    \n    •\n    \n      4 mil visualizações\n    \n      há 4 anos\n    \n  \n\n\n  \n\n\n\n          \n          \n        \n      ",
-    "link": "https://www.youtube.com/watch?v=XO08LcbDfCI"
-  },
-  {
-    "text": "\n      \n        \n  \n\n\n      \n      \n        \n  \n  \n  \n  \n  \n\n\n      \n      \n    ",
-    "link": "/"
-  },
-  {
-    "text": "\n  \n  \n  \n  \n  \n",
-    "link": "/"
+    "text": "\n        Create account\n      ",
+    "link": "https://dev.to/enter?state=new-user"
   }
 ]
