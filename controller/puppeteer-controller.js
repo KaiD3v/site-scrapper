@@ -32,7 +32,7 @@ async function SiteScrapper(req, res) {
                         return resultedLinks;
                     });
 
-                    fs.writeFileSync(`./db/teste.json`, JSON.stringify(scrappingResult, null, 2), err => {
+                    fs.writeFileSync(`./db/download.json`, JSON.stringify(scrappingResult, null, 2), err => {
                         if (err) throw new Error('Erro ao transformar conteúdo em json')
                     })
 
@@ -49,6 +49,13 @@ async function SiteScrapper(req, res) {
     }
 }
 
+async function DownloadScrappedDocument(req, res) {
+    const file = "./db/download.json"
+
+    res.download(file)
+}
+
 module.exports = {
-    SiteScrapper
+    SiteScrapper,
+    DownloadScrappedDocument
 };
